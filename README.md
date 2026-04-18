@@ -1,5 +1,5 @@
 # ublock-filter-lists
-UBlock Origin filters for various web annoyances. To use, install [https://github.com/gorhill/uBlock/releases/](UBlock Origin), open the extension's dashboard, switch to the Filter Lists section in the top bar, choose Import at the bottom, and paste the URL(s) of the filters.
+uBlock Origin filters for various web annoyances. To use, install [uBlock Origin](https://github.com/gorhill/uBlock/releases/), open the extension's dashboard, switch to the Filter Lists section in the top bar, choose Import at the bottom, and paste the URL(s) of the filters.
 
 Available lists:
 * Cookie Banners: TODO
