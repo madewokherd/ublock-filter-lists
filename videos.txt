@@ -1,0 +1,11 @@
+! Title: Videos
+! Description: Autoplaying videos that are not the main content of the page
+! Version: 2026.04.17
+! Last modified: 2026-04-17 14:34
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/madewokherd/ublock-filter-lists
+! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
+
+! 2026-04-18 https://www.them.us/story/dave-chappelle-lauren-boebert-feud-trans-jokes
+www.them.us##figure[class^=VideoFigure-]:upward(div)
+

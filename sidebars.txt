@@ -1,0 +1,11 @@
+! Title: Sidebars
+! Description: Sidebars not directly for site navigation or related to the main content
+! Version: 2026.04.17
+! Last modified: 2026-04-17 14:34
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/madewokherd/ublock-filter-lists
+! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
+
+! 2026-04-17 https://apnews.com/article/ai-workplace-poll-gallup-gemini-chatgpt-e4c129e9773255203ccae208bfccb367
+apnews.com##^aside.Page-aside
+

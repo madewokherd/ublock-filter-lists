@@ -1,0 +1,10 @@
+! Title: Hide interrupting popovers
+! Description: Hide (usually subscription) popovers that appear without interaction
+! Version: 2026.04.17
+! Last modified: 2026-04-17 14:34
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/madewokherd/ublock-filter-lists
+! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
+
+! 2026-04-17 https://mccollum.house.gov/
+https://mccollum.house.gov/profiles/evo/modules/custom/evo_displayer/js/evo_displayer.js$script
