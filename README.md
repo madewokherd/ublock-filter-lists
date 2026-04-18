@@ -2,7 +2,7 @@
 uBlock Origin filters for various web annoyances. To use, install [uBlock Origin](https://github.com/gorhill/uBlock/releases/), open the extension's dashboard, switch to the Filter Lists section in the top bar, choose Import at the bottom, and paste the URL(s) of the filters.
 
 Available lists:
-* Cookie Banners: TODO
+* Cookie Banners - prompts to accept/reject cookies. https://raw.githubusercontent.com/madewokherd/ublock-filter-lists/refs/heads/main/cookie-banners.txt
 * Interrupting Popovers - anything that blocks the main page content, and appears without clear intent from the user. https://raw.githubusercontent.com/madewokherd/ublock-filter-lists/refs/heads/main/popovers.txt
 * Videos - autoplaying videos that are not the main content of the page. https://raw.githubusercontent.com/madewokherd/ublock-filter-lists/refs/heads/main/videos.txt
 * Related Content - links to other articles in the middle of the one you're currently reading. https://raw.githubusercontent.com/madewokherd/ublock-filter-lists/refs/heads/main/related-content.txt
