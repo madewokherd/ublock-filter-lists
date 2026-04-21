@@ -15,3 +15,7 @@ apnews.com##^div.Advertisement
 ! 2026-04-18 https://www.them.us/story/dave-chappelle-lauren-boebert-feud-trans-jokes
 www.them.us##[class^=NewsletterOneClickWrapper]:upward(div.journey-unit__container):upward(div)
 
+! 2026-04-21 https://www.denver7.com/life/money/maryland-becomes-first-state-to-pass-bill-banning-surveillance-pricing
+! container for blocked ad
+www.denver7.com##div.sal--wrapper
+
