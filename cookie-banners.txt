@@ -1,7 +1,7 @@
 ! Title: Cookie banners
 ! Description: Banners asking to accept/reject cookies
-! Version: 2026.04.21
-! Last modified: 2026-04-21 14:16
+! Version: 2026.04.23
+! Last modified: 2026-04-23 16:50
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -17,3 +17,6 @@ www.pornhub.com##^script:has-text(function showShortCookieBanner)
 
 ! 2026-04-19 https://archipelago.gg
 archipelago.gg###cookie-notice
+
+! 2026-04-23 https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773
+discourse.ubuntu.com##.cookie-policy
