@@ -1,7 +1,7 @@
 ! Title: Cookie banners
 ! Description: Banners asking to accept/reject cookies
 ! Version: 2026.04.24
-! Last modified: 2026-04-24 4:34
+! Last modified: 2026-04-24 18:36
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -29,3 +29,7 @@ discourse.ubuntu.com##.cookie-policy
 
 ! 2026-04-23 https://www.cub.com/store/cub/storefront
 ||cdn-prod.securiti.ai/consent/$script
+
+! 2026-04-24 https://www.theguardian.com/us-news/2026/apr/23/rfk-jr-agenda-trans-care-children
+||sourcepoint.theguardian.com/PrivacyManagerUS.14d82.js$script
+

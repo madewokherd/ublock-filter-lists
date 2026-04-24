@@ -1,7 +1,7 @@
 ! Title: Hide interrupting popovers
 ! Description: Hide (usually subscription) popovers that appear without interaction
 ! Version: 2026.04.24
-! Last modified: 2026-04-24 16:36
+! Last modified: 2026-04-24 18:14
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -21,3 +21,5 @@ fandom.com##.sitenotice-wrapper
 ! Apr 24, 2026 https://blog.3d6564.com
 ||substackcdn.com/bundle/static/js/11578.87f307e7.js$script
 
+! 2026-04-24 https://www.theguardian.com/us-news/2026/apr/23/rfk-jr-agenda-trans-care-children
+||assets.guim.co.uk/assets/frameworks.client.web.8844a1b3ccdb9ca9be92.js$script
