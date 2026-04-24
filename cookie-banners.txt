@@ -1,7 +1,7 @@
 ! Title: Cookie banners
 ! Description: Banners asking to accept/reject cookies
-! Version: 2026.04.23.21
-! Last modified: 2026-04-23 21:07
+! Version: 2026.04.24
+! Last modified: 2026-04-24 4:34
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -11,6 +11,9 @@
 
 ! 2026-04-21 https://www.denver7.com/life/money/maryland-becomes-first-state-to-pass-bill-banning-surveillance-pricing
 ||cdn.privagy-mgmt.com^$script
+
+! 2025-04-24 https://zelda.fandom.com
+||cdn.cookielaw.org^$script
 
 ! 2026-04-19 https://www.pornhub.com/feeds
 www.pornhub.com##^script:has-text(function showShortCookieBanner)
