@@ -1,7 +1,7 @@
 ! Title: Hide interrupting popovers
 ! Description: Hide (usually subscription) popovers that appear without interaction
-! Version: 2026.04.23
-! Last modified: 2026-04-23 15:48
+! Version: 2026.04.24
+! Last modified: 2026-04-24 4:39
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -14,3 +14,6 @@ www.snopes.com##^script:has-text(newsletter_promo)
 
 ! 2026-04-23 https://www.wsj.com/arts-culture/television/jamie-ding-jeopardy-streak-ken-jennings-5182a277
 ||www.wsj.com/asset/piano/piano.js$script,domain=www.wsj.com
+
+! 2026-04-24 https://zelda.fandom.com
+fandom.com##.sitenotice-wrapper
