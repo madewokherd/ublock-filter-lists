@@ -1,7 +1,7 @@
 ! Title: Sidebars
 ! Description: Sidebars not directly for site navigation or related to the main content
-! Version: 2026.04.23
-! Last modified: 2026-04-23 15:48
+! Version: 2026.04.26
+! Last modified: 2026-04-26 15:45
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -11,3 +11,7 @@ apnews.com##^aside.Page-aside
 
 ! 2026-04-23 https://www.wsj.com/arts-culture/television/jamie-ding-jeopardy-streak-ken-jennings-5182a277
 www.wsj.com##.aside-container
+
+! 2026-04-26 https://www.thepinknews.com/2026/04/20/donate-blood-australia-lgbtq-rules-2026/
+www.thepinknews.com##.article__content-sidebar__container
+
