@@ -1,7 +1,7 @@
 ! Title: Hide interrupting popovers
 ! Description: Hide (usually subscription) popovers that appear without interaction
-! Version: 2026.04.24
-! Last modified: 2026-04-24 18:14
+! Version: 2026.04.26
+! Last modified: 2026-04-26 15:38
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -23,3 +23,7 @@ fandom.com##.sitenotice-wrapper
 
 ! 2026-04-24 https://www.theguardian.com/us-news/2026/apr/23/rfk-jr-agenda-trans-care-children
 ||assets.guim.co.uk/assets/frameworks.client.web.8844a1b3ccdb9ca9be92.js$script
+
+! 2026-04-26 https://www.bbc.com/future/article/20260420-cancer-how-aspirin-may-be-a-powerful-new-weapon-against-tumours
+||piano.io
+
