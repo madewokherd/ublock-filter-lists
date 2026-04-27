@@ -1,7 +1,7 @@
 ! Title: Cookie banners
 ! Description: Banners asking to accept/reject cookies
-! Version: 2026.04.25
-! Last modified: 2026-04-25 16:03
+! Version: 2026.04.27
+! Last modified: 2026-04-27 17:16
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/madewokherd/ublock-filter-lists
 ! License: https://github.com/madewokherd/ublock-filter-lists/blob/master/LICENSE.md
@@ -35,3 +35,6 @@ discourse.ubuntu.com##.cookie-policy
 
 ! 2026-04-25 https://www.loyalfans.com
 www.loyalfans.com##app-cookie-consent
+
+! 2026-04-27 https://smoothmcgroove.bandcamp.com
+*##.cookie-dialog-initial
